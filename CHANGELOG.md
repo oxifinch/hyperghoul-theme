@@ -16,3 +16,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Java
   - Python
   - Markdown
+  - JSON
