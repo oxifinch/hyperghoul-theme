@@ -19,7 +19,7 @@ Recommended editor font: Iosevka
 ---
 
 ### Contribution
-The repository can be found at: **https://github.com/JStameus/hyperghoul-theme.git**
+The repository can be found at: **https://github.com/JStameus/hyperghoul-theme**
 
 Feel tree to report issues, feedback and pull requests to help improve HyperGhoul with tweaks and additional language support.
 
