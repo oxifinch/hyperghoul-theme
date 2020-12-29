@@ -38,6 +38,8 @@ And of course, make sure to follow the code of conduct.
 
 **Non-italic version**
 
+**A nicer README file and extension page**
+
 ---
 
 ### Personalization
