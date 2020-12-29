@@ -1,7 +1,7 @@
 {
     "name": "hyperghoul",
     "displayName": "HyperGhoul",
-    "description": "A hyped-up dual theme for that weird arcane code you've been writing late at night.",
+    "description": "A hyped-up spooky theme for that weird arcane code you're writing late at night.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
