@@ -8,6 +8,7 @@ Foreground Desaturated: #9ac8b7
 
 Midtones: #547a75
 White: #e2e2e2
+Black: #1e2424
 
 # Green
 Green Default: #65cca6

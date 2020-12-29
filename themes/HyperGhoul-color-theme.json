@@ -2,7 +2,13 @@
 	"name": "HyperGhoul",
 	"type": "dark",
 	"colors": {
-		// Editor
+		// General
+		"textLink.foreground": "#65cca6",
+		"textLink.activeForeground": "#d3ec8c",
+		"focusBorder": "#d3ec8c",
+		"button.background": "#547a75",
+		"button.foreground": "#e2e2e2",
+		// Editor & Gutter
 		"editor.background": "#2b3233",
 		"editor.foreground": "#95c5b3",
 		"editorGutter.background": "#252e2e",
@@ -11,11 +17,20 @@
 		"editor.lineHighlightBackground": "#252e2e34",
 		"editor.lineHighlightBorder": "#547a753a",
 		"editor.selectionBackground": "#48685cb4",
+		"editorWhitespace.foreground": "#547a758a",
+		"editorIndentGuide.activeBackground": "#547a75c2",
+		"editorCodeLens.foreground": "#78ada6",
+		"editorLink.activeForeground": "#d3ec8c",
 		// Panel & Terminal
 		"panel.background": "#252e2e",
 		"panel.border": "#547a75",
 		"terminal.background": "#1e2424",
 		"terminal.foreground": "#82cab0",
+		"panelTitle.activeBorder": "#65cca6",
+		"panelTitle.inactiveForeground": "#547a75",
+		"panelTitle.activeForeground": "#bae5d5",
+		"badge.background": "#ff3b55",
+		"badge.foreground": "#e2e2e2",
 		// Terminal Colors
 		"terminal.ansiBrightBlue": "#549db3",
 		"terminal.ansiBrightGreen": "#65cca6",
@@ -51,11 +66,23 @@
 		"sideBarSectionHeader.background": "#2b3233",
 		"sideBarSectionHeader.border": "#65cca6",
 		"list.activeSelectionBackground": "#547a75",
-		"list.focusForeground": "#65cca6",
+		"list.focusForeground": "#bae5d5",
 		"list.hoverForeground": "#bae5d5",
+		"list.hoverBackground": "#252e2e",
+		"list.highlightForeground": "#d3ec8c",
+		"list.focusBackground": "#48685cb4",
 		// Status Bar
 		"statusBar.background": "#547a75",
-		"statusBar.foreground": "#bae5d5"
+		"statusBar.foreground": "#bae5d5",
+		"statusBar.debuggingBackground": "#ff3b55",
+		"statusBarItem.hoverBackground": "#2b3233",
+		// Search Widgets & Popup Menus
+		"editor.findMatchBackground": "#3d614c",
+		"dropdown.background": "#252e2e",
+		"dropdown.border": "#547a75",
+		"input.background": "#1e2424",
+		"input.border": "#547a75",
+		"input.foreground": "#82cab0"
 	},
 	"tokenColors": [
 		{
@@ -369,7 +396,8 @@
 				"entity.other.attribute-name.class",
 				"entity.other.attribute-name.id.css",
 				"punctuation.definition.entity.css",
-				"source.sass keyword.control"
+				"source.sass keyword.control",
+				"entity.other.attribute-name.html"
 			],
 			"settings": {
 				"foreground": "#65cca6",
