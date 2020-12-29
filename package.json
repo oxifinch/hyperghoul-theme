@@ -1,8 +1,13 @@
 {
     "name": "hyperghoul",
     "displayName": "HyperGhoul",
+    "publisher": "JStameus",
     "description": "A hyped-up spooky theme for that weird arcane code you're writing late at night.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JStameus/hyperghoul-theme"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
