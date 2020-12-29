@@ -8,10 +8,54 @@
 		"editorGutter.background": "#252e2e",
 		"editorLineNumber.activeForeground": "#82cab0",
 		"editorLineNumber.foreground": "#547a75",
+		"editor.lineHighlightBackground": "#252e2e34",
+		"editor.lineHighlightBorder": "#547a753a",
+		"editor.selectionBackground": "#48685cb4",
+		// Panel & Terminal
+		"panel.background": "#252e2e",
+		"panel.border": "#547a75",
+		"terminal.background": "#1e2424",
+		"terminal.foreground": "#82cab0",
+		// Terminal Colors
+		"terminal.ansiBrightBlue": "#549db3",
+		"terminal.ansiBrightGreen": "#65cca6",
+		"terminal.ansiRed": "#ff3b55",
+		"terminal.ansiBrightMagenta": "#c282ca",
+		"terminal.ansiBrightYellow": "#d3ec8c",
+		"terminal.ansiYellow": "#d3ec8c",
+		// Suggestion Widget
+		"editorSuggestWidget.background": "#252e2e",
+		"editorSuggestWidget.border": "#547a75",
+		"editorSuggestWidget.foreground": "#82cab0",
+		"editorSuggestWidget.selectedBackground": "#48685cb4",
+		"editorSuggestWidget.highlightForeground": "#d3ec8c",
+		// Tabs
+		"tab.activeBorder": "#65cca6",
+		"tab.activeBackground": "#252e2e",
+		"tab.hoverForeground": "#e2e2e2",
+		"tab.hoverBackground": "#252e2e",
+		"tab.inactiveBackground": "#2b3233",
+		"tab.inactiveForeground": "#9ac8b7",
+		"editorGroupHeader.tabsBackground": "#242727",
 		// Activity Bar
-		"activityBarBadge.background": "#007acc",
-		// Sidebar
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.background": "#2b3233",
+		"activityBar.foreground": "#82cab0",
+		"activityBarBadge.background": "#ff3b55",
+		"activityBarBadge.foreground": "#e2e2e2",
+		"activityBar.border": "#547a75",
+		// Sidebar & List
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#252e2e",
+		"sideBar.foreground": "#9ac8b7",
+		"sideBar.border": "#547a75",
+		"sideBarSectionHeader.background": "#2b3233",
+		"sideBarSectionHeader.border": "#65cca6",
+		"list.activeSelectionBackground": "#547a75",
+		"list.focusForeground": "#65cca6",
+		"list.hoverForeground": "#bae5d5",
+		// Status Bar
+		"statusBar.background": "#547a75",
+		"statusBar.foreground": "#bae5d5"
 	},
 	"tokenColors": [
 		{
@@ -79,7 +123,9 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"entity.name.type.txt",
+				"entity.name.function.txt"
 			],
 			"settings": {
 				"foreground": "#82cab0"
