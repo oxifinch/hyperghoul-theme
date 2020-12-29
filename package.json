@@ -1,0 +1,21 @@
+{
+    "name": "hyperghoul",
+    "displayName": "HyperGhoul",
+    "description": "A hyped-up dual theme for that weird arcane code you've been writing late at night.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HyperGhoul",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HyperGhoul-color-theme.json"
+            }
+        ]
+    }
+}
