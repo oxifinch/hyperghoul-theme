@@ -1,9 +1,9 @@
 {
     "name": "hyperghoul",
-    "displayName": "HyperGhoul",
+    "displayName": "HyperGhoul Theme",
     "publisher": "JStameus",
     "description": "A hyped-up spooky theme for that weird arcane code you're writing late at night.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/JStameus/hyperghoul-theme"
@@ -13,6 +13,17 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "neon",
+        "hyperghoul",
+        "hyper",
+        "spooky",
+        "contrast",
+        "green",
+        "red"
     ],
     "contributes": {
         "themes": [

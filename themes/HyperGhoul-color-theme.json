@@ -100,7 +100,8 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"keyword.operator.expansion.shell"
 			],
 			"settings": {
 				"foreground": "#ff3b55"
@@ -152,7 +153,8 @@
 				"keyword.other.template",
 				"keyword.other.substitution",
 				"entity.name.type.txt",
-				"entity.name.function.txt"
+				"entity.name.function.txt",
+				"keyword.operator.logical.shell"
 			],
 			"settings": {
 				"foreground": "#82cab0"
@@ -284,7 +286,10 @@
 				"punctuation.definition.string.begin.java",
 				"punctuation.definition.string.end.java",
 				"punctuation.definition.string.begin.json",
-				"punctuation.definition.string.end.json"
+				"punctuation.definition.string.end.json",
+				"punctuation.definition.string.begin.shell",
+				"punctuation.definition.string.end.shell",
+
 			],
 			"settings": {
 				"foreground": "#d3ec8c",
